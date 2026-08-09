@@ -1,5 +1,5 @@
 context:
-  version: "0.2.126"
+  version: "0.2.127"
 
 package:
   name: wasm-bindgen-cli
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://static.crates.io/crates/wasm-bindgen-cli/wasm-bindgen-cli-${{ version }}.crate
-  sha256: 8e2ebf6eef87c34e662347f1dddfbea541304bb7294711ed2c2acd8746cc5b50
+  sha256: 6123f525ba36df42e57b67027637a78591e712a9f6a025ffd3d74298fa1c3f4c
 
 build:
   number: 0
